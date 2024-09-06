@@ -65,3 +65,6 @@ If you're seeing this change in your own repo, you have successfully completed S
 Edit for late lab submissions
 -
 You have successfully completed Step 7.
+
+Edit for Lab Section 031L:
+Edit for lab 1
